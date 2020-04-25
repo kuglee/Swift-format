@@ -3852,7 +3852,7 @@
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/apple/swift-format";
 			requirement = {
-				branch = master;
+				branch = "swift-5.2-branch";
 				kind = branch;
 			};
 		};

@@ -23,8 +23,8 @@
         "package": "swift-format",
         "repositoryURL": "https://github.com/apple/swift-format",
         "state": {
-          "branch": "master",
-          "revision": "80ce1ed2170a473cb3bc139dfdf2d17f51c927da",
+          "branch": "swift-5.2-branch",
+          "revision": "1fda39893d3652a9a3f1673565a227f843d59f3c",
           "version": null
         }
       },
